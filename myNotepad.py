@@ -159,7 +159,7 @@ class Notepad():
             pass
 
         # Set the window text
-        self.__root.title("Abhishek - Notepad")
+        self.__root.title("Nitil - Notepad")
 
         # Center the window
         screenWidth = self.__root.winfo_screenwidth()
